@@ -35,6 +35,7 @@ This project builds a fraud detection system using machine learning techniques, 
 ## Evaluation
 ### Confusion Matrix
 Shows the performance of the model on non-fraud and fraud cases.
+
 ![Confusion Matrix](output.png)
 
 ### Classification Report
