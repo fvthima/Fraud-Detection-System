@@ -22,6 +22,7 @@ This project builds a fraud detection system using machine learning techniques, 
 ## Environment Setup
 - **Python** and **Jupyter Notebook**
 - Required libraries: `pandas`, `numpy`, `scikit-learn`, `imbalanced-learn`, `matplotlib`, `seaborn`
+- - Install dependencies: [requirements.txt](requirements.txt)
 
 ## Data Preprocessing
 1. Handled class imbalance using SMOTE and under-sampling.
@@ -34,6 +35,7 @@ This project builds a fraud detection system using machine learning techniques, 
 ## Evaluation
 ### Confusion Matrix
 Shows the performance of the model on non-fraud and fraud cases.
+![Confusion Matrix](output.png)
 
 ### Classification Report
 - Precision: 6% for fraud cases, meaning many legitimate transactions are flagged as fraud.
