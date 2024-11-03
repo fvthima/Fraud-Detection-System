@@ -1,5 +1,16 @@
 # Fraud Detection System Using Machine Learning
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset](#dataset)
+- [Project Structure](#project-structure)
+- [Environment Setup](#environment-setup)
+- [Data Preprocessing](#data-preprocessing)
+- [Model Training](#model-training)
+- [Evaluation Metrics](#evaluation-metrics)
+- [Improvements](#improvements)
+- [Conclusion](#conclusion)
+
 ## Introduction
 This project builds a fraud detection system using machine learning techniques, based on the Credit Card Fraud Detection Dataset.
 
