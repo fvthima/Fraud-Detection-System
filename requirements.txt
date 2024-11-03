@@ -1,0 +1,13 @@
+# Core libraries
+pandas==1.5.3
+numpy==1.24.2
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Machine learning
+scikit-learn==1.2.2
+
+# Handling class imbalance
+imbalanced-learn==0.10.1
